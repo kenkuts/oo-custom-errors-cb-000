@@ -1,0 +1,3 @@
+module PartnerError < StandardError
+
+end
